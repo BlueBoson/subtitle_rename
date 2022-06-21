@@ -1,0 +1,7 @@
+-t
+-s
+D:\Video\[ReinForce] Monogatari series (BDRip 1920x1080 x264 FLAC)\[ReinForce] Bakemonogatari (BDRip 1920x1080 x264 FLAC)
+-i
+Bakemonogatari.(?P<ep>\d+).CASO
+-o
+[ReinForce] Bakemonogatari - {ep} (BDRip 1920x1080 x264 FLAC)

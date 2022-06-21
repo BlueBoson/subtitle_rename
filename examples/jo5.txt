@@ -1,0 +1,7 @@
+-t
+-s
+D:\Video\JoJo\[AI-Raws][JoJo's Bizarre Adventure Golden Wind][TV S4 01-39+SP Fin][BDRip][MKV]
+-i
+[AI-Raws] ジョジョの奇妙な冒険 黄金の風 #(?P<ep>\d+)
+-c
+[AI-Raws] ジョジョの奇妙な冒険 黄金の風 #(?P<ep>\d+)(?P<fullep>\(\d+\)) \(BD HEVC 1920x1080 yuv444p10le FLAC\)[(?P<hash>\w+)]
