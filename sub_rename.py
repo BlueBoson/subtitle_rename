@@ -32,7 +32,7 @@ general_group.add_argument(
 path_group = parser.add_argument_group('path arguments')
 path_group.add_argument(
     '-s', '--src-dir', 
-    dest='src_dir', metavar='SRC-DIR', type=str,
+    dest='src_dir', metavar='SRC-DIR', type=str, default='.',
     help='path to files read (default: cwd)')
 path_group.add_argument(
     '-d', '--dst-dir', 
